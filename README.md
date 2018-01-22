@@ -7,4 +7,4 @@ Biography goes here.
 
 ## Blog Post
 
-First sentence of blog post here...
+First sentence of blog post here... [continue reading](blog)
