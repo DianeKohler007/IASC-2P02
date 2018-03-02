@@ -13,3 +13,5 @@ Fusce maximus ipsum eu tellus finibus pretium. Donec finibus semper lacus suscip
 
 
 ![](images/download.png)
+
+<iframe style='width: 637px; height: 465px;' src='//voyant-tools.org/tool/CollocatesGraph/?mode=corpus&corpus=15e9ff422be5dab4c4db63861cb746fd'></iframe>
