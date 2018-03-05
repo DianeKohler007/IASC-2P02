@@ -17,6 +17,7 @@ Moretti chose to study novels in the 18th and 19th centuries because “What Mor
 For my visualization I have a connected term graph that focuses mostly on the term “novel”. 
 
 ![](images/moretti visual.png)
+<iframe style='width: 637px; height: 465px;' src='//voyant-tools.org/tool/CollocatesGraph/?mode=corpus&corpus=15e9ff422be5dab4c4db63861cb746fd'></iframe>
 
 The terms that surround it mostly have to do with historical context, and this represents how intertwined the focus of literature and history are for Moretti. He focuses a lot on time period and how novels reflect history based on genre popularity. However it shows how disconnected he is when it comes to the relation of novel and genre. Novels are connected directly to time instead of being an interpretation or a response to history. Literature is always an imitation and in my opinion a response to history, he does theorize that certain genres may have a basis in the mental state of the masses “amorous epistolary fiction being ill-equipped to capture the traumas of the revolutionary years, say – gothic novels being particularly good at it,” but believes that this is more due to the entire generational response to popularity instead. 
 
@@ -28,10 +29,8 @@ In short, I partly agree with Moretti in that there is a shift in genres and tre
 
 ![](images/download.png)
 
-<iframe style='width: 637px; height: 465px;' src='//voyant-tools.org/tool/CollocatesGraph/?mode=corpus&corpus=15e9ff422be5dab4c4db63861cb746fd'></iframe>
 
-
-Works Cited:
+###Works Cited:
 
 Clavert, F. (2014). Reading Today. A New Companion to Digital Humanities, 8(4). Retrieved March 4, 2018.
 
