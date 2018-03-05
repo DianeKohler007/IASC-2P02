@@ -29,3 +29,14 @@ In short, I partly agree with Moretti in that there is a shift in genres and tre
 ![](images/download.png)
 
 <iframe style='width: 637px; height: 465px;' src='//voyant-tools.org/tool/CollocatesGraph/?mode=corpus&corpus=15e9ff422be5dab4c4db63861cb746fd'></iframe>
+
+
+Works Cited:
+
+Clavert, F. (2014). Reading Today. A New Companion to Digital Humanities, 8(4). Retrieved March 4, 2018.
+
+Deuze, M., Blank, P., & Speers, L. (2012). A Life Lived in Media. A New Companion to Digital Humanities, 6(1). Retrieved March 4, 2018.
+
+Drucker, J. (2015). Graphical Approaches to the Digital Humanities. A New Companion to Digital Humanities, 5(1), 238-250. doi:10.1002/9781118680605.ch17
+
+Moretti, F. (n.d.). Graphs, Maps, Trees.
