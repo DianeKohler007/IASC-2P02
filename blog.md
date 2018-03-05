@@ -3,6 +3,7 @@
 
 Moretti argues that literary genres disappear because of shifting generations. He illustrates this point with a graph (fig.7) showing the rising and falling popularity of British novels in the epistolary, gothic and historical genres. 
 
+![](images/graphmoretti.png)
 
 It appears that each genre has a period in time reaching peak popularity overshadowing the others. Moretti interprets this data as a genre turnover, a cyclic response to popularity as the new generation finds a different genre to captivate them from the previous. “Books survive if they are read and disappear if they aren’t: and when an entire generic system vanishes at once, the likeliest explanation is that its readers vanished at once.” However, when looking deeper into the data there are a few flaws. 
 
