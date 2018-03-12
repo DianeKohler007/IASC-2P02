@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>data-background="orange">
+				<h2>World of Pets</h2>
+				<p> What's not to love? </p>
+				</section>
+				
+				<section>
+				<h2> Types of pets </h2>
+				<ul> 
+				<li>Dogs</li>
+				<li>Cats</li>
+				<li>Guinea Pigs</li>
+				<li>Geckos</li>
+				</ul>
+				</section>
+				
+				<section>
+				<h2> Doggos </h2>
+				<p class="fragment">They< </p>
+				<p class="fragment">are< </p>
+				<p class="fragment">cute< </p>
+				<p class="fragment">bruh< </p>
+				</section>
+				
+				<section>
+				<h2> Cats <h2/>
+				<p> <span class = "fragment" >They are</span><span class="fragment"> not as cute </span> </p>
+				</section>
+				
+				<section> <img src="https://media.wired.com/photos/5a55457ef41e4c2cd9ee6cb5/master/w_2400,c_limit/Doggo-TopArt-104685145.jpg"> 
+				<p> Doggos are better </p></section>
+				
+				<section> data=background="https://media.wired.com/photos/5a55457ef41e4c2cd9ee6cb5/master/w_2400,c_limit/Doggo-TopArt-104685145.jpg" >
+				<h2 style="color:red";>Just saying</h2>
+				<section> 
+				<p> Fight me </p>
+				<aside> class="notes" >don't actually fight anyone fam</aside>
+				
+				<section>
+				<h2> I've got nothing more to add </h2>
+				</section>
+				
+				<section> 
+				<ol> 
+				<li class"fragment">Doggos are funny</li>
+				<li class"fragment">Doggos snuggle</li>
+				<li class"fragment">Doggos are fuzzy</li>
+				<li class"fragment">Doggos are better</li>
+				</section> 
+				
+				<section>
+				<blockquote> cite="https://www.google.ca"> Doggos are scientifically superior to Cats in every way </blockquote>
+				<p> Albert Einstein </p>
+				
+				<section data-background="img/banana-doggo.png></section>
+				<section data-background="img/Floof.jpg></section>
+				<section data-background="img/wink.jpg></section>
+				<section data-background="img/bear-doggo.jpg></section>
+				
+				<section>
+				<h2> Thank you </h2>
+				</section>
+				
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+			// Slide every five seconds
+Reveal.configure({
+  autoSlide: 20000
+});
+		</script>
+	</body>
+</html>
