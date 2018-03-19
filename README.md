@@ -8,3 +8,6 @@ I am 21 studying at Brock for Interactive Arts and Sciences.
 ## Blog Post
 
 First sentence of blog post here... [continue reading](blog)
+
+## Solo Presentation
+[click it amigo](https://dianekohler007.github.io/IASC-2P02/reveal/index.html)
